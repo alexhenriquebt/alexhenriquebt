@@ -26,7 +26,7 @@
 </a>
 
 
-<a href="">
+<a href="https://www.linkedin.com/in/alex-henrique-barbosa-tavares-1b1b6b322/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
