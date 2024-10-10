@@ -8,8 +8,8 @@
 
 <div align="center">
 
-<img width=49% height=195px src="https://github-readme-stats.vercel.app/api?username=alexHenr0311&show_icons=true&theme=tokyonight"/>
-<img width=41% height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexHenr0311&layout=compact&text_color=4682B2&bg_color=0d1117"/>
+<img width=49% height=195px src="https://github-readme-stats.vercel.app/api?username=alexhenriquebt&show_icons=true&theme=tokyonight"/>
+<img width=41% height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexhenriquebt&layout=compact&text_color=4682B2&bg_color=0d1117"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/alexHenr0311?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark_green)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/alexhenriquebt?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark_green)
 
 </div>
 
@@ -82,8 +82,8 @@
 <div align="center">
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FalexHenr0311&s=50&c=4682B2&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falexhenriquebt&s=50&c=4682B2&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alexHenr0311&theme=nord"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alexhenriquebt&theme=nord"/>
 </div>
