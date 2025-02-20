@@ -17,7 +17,7 @@
 <br>
 
 <div align="center"> 
-<a href="https://www.instagram.com/alexzhenr/">
+<a href="https://www.instagram.com/alexz.henr/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
