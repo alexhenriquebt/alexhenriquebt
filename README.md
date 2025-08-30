@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Alex+Henrique;I'm+18+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Alex;I'm+18+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -17,10 +17,6 @@
 <br>
 
 <div align="center"> 
-<a href="https://www.instagram.com/alexz.henr/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 <a href="mailto:alexhenriquebt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
