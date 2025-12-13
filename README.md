@@ -43,10 +43,6 @@
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
 <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
 
 </div>
@@ -60,26 +56,7 @@
 
 <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<img  src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
-
-<img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
 <img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)">
 
-<img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falexhenriquebt&s=50&c=4682B2&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=alexhenriquebt&theme=nord"/>
 </div>
