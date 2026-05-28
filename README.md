@@ -3,15 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Alex;I'm+19+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
-<br>
-<br>
-
-<div align="center">
-
-<img width=49% height=195px src="https://github-readme-stats.vercel.app/api?username=alexhenriquebt&show_icons=true&theme=tokyonight"/>
-<img width=41% height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexhenriquebt&layout=compact&text_color=4682B2&bg_color=0d1117"/>
-
-</div>
 
 <br>
 <br>
@@ -21,10 +12,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-
-<a href="https://www.linkedin.com/in/alex-henrique-barbosa-tavares-1b1b6b322/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 </div>
 
