@@ -32,6 +32,8 @@
 
 <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 </div>
 
 <br>
@@ -41,9 +43,9 @@
 <h2 align="left"> Studying in this moment: </h2>
 <div align="left"> 
 
-<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-<img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)">
+<img  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
 
 </div>
