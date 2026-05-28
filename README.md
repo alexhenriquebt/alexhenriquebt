@@ -3,49 +3,32 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Alex;I'm+19+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
-
 <br>
 <br>
-
-<div align="center"> 
-<a href="mailto:alexhenriquebt@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-
-</div>
 
 <div align="center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/alexhenriquebt?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark_green)
-
 </div>
 
+### Contact:
+<div align="left"> 
+<a href="mailto:alexhenriquebt@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</div>
 
 ### Main skills:
 <div align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
 <img src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
 </div>
-
-<br>
-<br>
-<br>
 
 <h2 align="left"> Studying in this moment: </h2>
 <div align="left"> 
-
 <img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-
 <img  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-
-
 </div>
